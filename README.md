@@ -128,11 +128,10 @@ Portafolio/
 │   ├── index.js            # Lógica JavaScript
 │   └── ...
 ├── CVs/
-│   ├── CV_Maylo_Parra_ES.pdf   # CV en español
-│   └── CV_Maylo_Parra_EN.pdf   # CV en inglés
+│   ├── CV .pdf   # CV en español
+│   └── CV English.pdf   # CV en inglés
 ├── package.json            # Configuración del proyecto
-├── README.md              # Este archivo
-└── INSTRUCCIONES.md       # Guía de personalización
+└── README.md              # Este archivo
 ```
 
 ---
