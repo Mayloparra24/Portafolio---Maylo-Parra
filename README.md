@@ -256,7 +256,7 @@ npm run deploy
 
 🐙 **GitHub:** [@Mayloparra24]([https://github.com](https://github.com/Mayloparra24))
 
-𝕏 **Twitter:** [@Daring_Parra][(https://twitter.com](https://x.com/DaringParra))
+𝕏 **Twitter:** [@Daring_Parra][(https://x.com](https://x.com/DaringParra))
 
 </div>
 
