@@ -252,11 +252,11 @@ npm run deploy
 
 📧 **Email:** a494256@gmail.com
 
-💼 **LinkedIn:** [Mi perfil profesional](https://linkedin.com)
+💼 **LinkedIn:** [Maylo Parra]([https://linkedin.com](https://www.linkedin.com/in/maylo-parra-aguirre-298a61173/))
 
-🐙 **GitHub:** [@Mayloparra24](https://github.com)
+🐙 **GitHub:** [@Mayloparra24]([https://github.com](https://github.com/Mayloparra24))
 
-𝕏 **Twitter:** [@tu_usuario](https://twitter.com)
+𝕏 **Twitter:** [@Daring_Parra][(https://twitter.com](https://x.com/DaringParra))
 
 </div>
 
