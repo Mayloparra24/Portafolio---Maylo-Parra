@@ -128,7 +128,7 @@ Portafolio/
 │   ├── index.js            # Lógica JavaScript
 │   └── ...
 ├── CVs/
-│   ├── CV .pdf   # CV en español
+│   ├── CV Español.pdf   # CV en español
 │   └── CV English.pdf   # CV en inglés
 ├── package.json            # Configuración del proyecto
 └── README.md              # Este archivo
