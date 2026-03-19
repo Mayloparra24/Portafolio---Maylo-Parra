@@ -74,7 +74,7 @@ if (canvas) {
 // ========== DESCARGAR CV ==========
 function descargarCV(idioma) {
     const nombreArchivo = idioma === 'es' ? 'CV Español.pdf' : 'CV English.pdf';
-    const rutaArchivo = `../CVs/${nombreArchivo}`;
+    const rutaArchivo = `./CVs/${nombreArchivo}`;
     
     const enlace = document.createElement('a');
     enlace.href = rutaArchivo;
