@@ -179,6 +179,3 @@ function animateNumbers() {
         }, 20);
     });
 }
-
-console.log('%c✨ Portafolio de Maylo Parra ✨', 'color: #00d4ff; font-size: 16px; font-weight: bold;');
-console.log('%cDesarrollado con React, Node.js y mucho ❤️', 'color: #ff006e; font-size: 12px;');
