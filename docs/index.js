@@ -73,7 +73,7 @@ if (canvas) {
 
 // ========== DESCARGAR CV ==========
 function descargarCV(idioma) {
-    const nombreArchivo = idioma === 'es' ? 'CV Español.pdf' : 'CV English.pdf';
+    const nombreArchivo = idioma === 'es' ? 'CV-Spanish.pdf' : 'CV English.pdf';
     const rutaArchivo = `./CVs/${nombreArchivo}`;
     
     // Abrir en nueva pestaña para que el navegador lo maneje
