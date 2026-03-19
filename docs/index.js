@@ -76,14 +76,10 @@ function descargarCV(idioma) {
     const nombreArchivo = idioma === 'es' ? 'CV Español.pdf' : 'CV English.pdf';
     const rutaArchivo = `./CVs/${nombreArchivo}`;
     
-    const enlace = document.createElement('a');
-    enlace.href = rutaArchivo;
-    enlace.download = nombreArchivo;
-    document.body.appendChild(enlace);
-    enlace.click();
-    document.body.removeChild(enlace);
+    // Abrir en nueva pestaña para que el navegador lo maneje
+    window.open(rutaArchivo, '_blank');
     
-    console.log(`↓ Descargando CV en ${idioma === 'es' ? 'español' : 'inglés'}...`);
+    console.log(`↓ Abriendo CV en ${idioma === 'es' ? 'español' : 'inglés'}...`);
 }
 document.querySelectorAll('a[href^=\"#\"]').forEach(anchor => {
     anchor.addEventListener('click', function(e) {
